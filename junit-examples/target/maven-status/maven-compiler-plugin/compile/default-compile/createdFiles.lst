@@ -1,0 +1,12 @@
+com\endava\junit\services\NotificationSender.class
+com\endava\junit\model\FoodItem.class
+com\endava\junit\exceptions\NegativeCaloryException.class
+com\endava\junit\services\CaloryIntakeServiceWithDependencies.class
+com\endava\junit\model\Operation.class
+com\endava\junit\services\CaloryDiaryService.class
+com\endava\junit\model\ActivityType.class
+com\endava\junit\model\SportsItem.class
+com\endava\junit\model\ArchiveEntry.class
+com\endava\junit\services\CaloryIntakeService.class
+com\endava\junit\exceptions\NotificationServiceException.class
+com\endava\junit\model\Item.class

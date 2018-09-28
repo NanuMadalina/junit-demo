@@ -1,0 +1,12 @@
+com\endava\junit\services\CaloryIntakeServiceWithDependeciesTest$3.class
+com\endava\junit\services\CaloryIntakeServiceTest.class
+com\endava\junit\services\CaloryIntakeServiceWithDependeciesTest$3$1.class
+com\endava\junit\services\runners\CustomRunner.class
+com\endava\junit\services\suites\LongRunningSuite.class
+com\endava\junit\services\categories\LongRunningCategories.class
+com\endava\junit\services\FirstTest.class
+com\endava\junit\services\categories\SmokeCategories.class
+com\endava\junit\services\CaloryIntakeServiceWithDependeciesTest$1.class
+com\endava\junit\services\CaloryIntakeServiceWithDependeciesTest$2.class
+com\endava\junit\services\CaloryIntakeServiceWithDependeciesTest.class
+com\endava\junit\services\suites\MyFirstSuite.class
